@@ -1,0 +1,14 @@
+div
+{
+	box-align:center;
+	background-color:white;
+	border:5px solid grey;
+	width:200px;
+	padding: 125px;
+    	margin: auto;
+	margin-top:200px;
+}
+body
+{
+	background-color:purple;
+}	
